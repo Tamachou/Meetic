@@ -6,8 +6,8 @@ class modify {
     public $bdd;
 //    public $error;
     private $dsn = "mysql:host=localhost;dbname=my_meetic";
-    private $name = "azumi";
-    private $passwordBdd = "azumi";
+    private $name = "name";
+    private $passwordBdd = "password";
 
     public function __construct()
     {
