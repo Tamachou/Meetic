@@ -4,8 +4,8 @@ ini_set('display_errors', 1);
 class research {
     public $bdd;
     private $dsn = "mysql:host=localhost;dbname=my_meetic";
-    private $name = "azumi";
-    private $passwordBdd = "azumi";
+    private $name = "name";
+    private $passwordBdd = "password";
     private $_searchedAge;
     private $_searchedGender;
     private $_searchedCity;
