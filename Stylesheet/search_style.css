@@ -1,0 +1,19 @@
+body{
+    background:url("https://4.bp.blogspot.com/-nZz46veVizs/UWibzwngSII/AAAAAAAAHsE/WuSQAbXqm0M/s1600/AKB48+-+So+long+1600x900.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    padding:10px;
+}
+.emp-profile{
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 0.5rem;
+    background: #fff;
+}
+
+#result
+{
+    visibility: hidden;
+
+}
