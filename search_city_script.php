@@ -5,8 +5,8 @@ var_dump($_POST);
 class location {
     public $bdd;
     private $dsn = "mysql:host=localhost;dbname=my_meetic";
-    private $name = "azumi";
-    private $passwordBdd = "azumi";
+    private $name = "name";
+    private $passwordBdd = "password";
 
     public function __construct()
     {
